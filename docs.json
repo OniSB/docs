@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/incident-icon-alarmalade.png",
-    "dark": "/incident-icon-alarmalade.png"
+    "light": "/incident-icon-alarmalade_2.svg",
+    "dark": "/incident-icon-alarmalade_2.svg"
   },
   "navbar": {
     "links": [
