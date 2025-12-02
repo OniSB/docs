@@ -7,7 +7,7 @@
     "light": "#BEC9D5",
     "dark": "#14171C"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/incident-icon-alarmalade.svg",
   "navigation": {
     "tabs": [
       {
@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/incident-icon-alarmalade.svg",
+    "dark": "/incident-icon-alarmalade.svg"
   },
   "navbar": {
     "links": [
