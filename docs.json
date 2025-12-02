@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "mint",
   "name": "incident.io",
   "colors": {
     "primary": "#f25533",
@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/incident-icon-alarmalade.svg",
-    "dark": "/incident-icon-alarmalade.svg"
+    "light": "/incident-icon-alarmalade.png",
+    "dark": "/incident-icon-alarmalade.png"
   },
   "navbar": {
     "links": [
