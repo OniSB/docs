@@ -11,30 +11,48 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Getting-started/start-guide",
+              "Getting-started/quick-start",
+              "Getting-started/concepts"
             ]
           },
           {
-            "group": "Customization",
+            "group": "On-call",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "On-call/overview",
+              "On-call/alert-ingestion",
+              "On-call/alert-labelling",
+              "On-call/deduplication-and-grouping",
+              "On-call/intelligent-routing",
+              "On-call/bulk-actions",
+              "On-call/alert-intelligence-and-analytics",
+              "On-call/configure-notifications",
+              "On-call/advanced-escalation-logic",
+              "On-call/schedules",
+              "On-call/live-call-routing",
+              "On-call/readiness-policies-and-reporting",
+              "On-call/shifts-overrides-and-cover-requests-data",
+              "On-call/compensation-calculator-and-reporting"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Incident Response",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "Incident-response/overview",
+              "Incident-response/responding-to-incidents",
+              "Incident-response/incident-lifecycle",
+              "Incident-response/channel-management",
+              "Incident-response/incident-actions",
+              "Incident-response/automated-workflows",
+              "Incident-response/video-calls",
+              "Incident-response/incident-escalations",
+              "Incident-response/nudges",
+              "Incident-response/housekeeping-and-tidy-up"
             ]
           },
           {
@@ -114,9 +132,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/incident_io",
+      "linkedin": "https://linkedin.com/company/incident-io"
     }
   }
 }
